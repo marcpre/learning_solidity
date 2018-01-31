@@ -19,5 +19,8 @@
   "homepage": "https://github.com/marcpre/learning_solidity#readme",
   "dependencies": {
     "truffle": "^4.0.5"
+  },
+  "devDependencies": {
+    "ganache-cli": "^6.0.3"
   }
 }
