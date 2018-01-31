@@ -1,0 +1,23 @@
+{
+  "name": "learning_solidity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcpre/learning_solidity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcpre/learning_solidity/issues"
+  },
+  "homepage": "https://github.com/marcpre/learning_solidity#readme",
+  "dependencies": {
+    "truffle": "^4.0.5"
+  }
+}
